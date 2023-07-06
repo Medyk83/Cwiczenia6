@@ -1,0 +1,15 @@
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/bin/Debug/net7.0/Zad3_2
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/bin/Debug/net7.0/Zad3_2.deps.json
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/bin/Debug/net7.0/Zad3_2.runtimeconfig.json
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/bin/Debug/net7.0/Zad3_2.dll
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/bin/Debug/net7.0/Zad3_2.pdb
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.csproj.AssemblyReference.cache
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.AssemblyInfoInputs.cache
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.AssemblyInfo.cs
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.csproj.CoreCompileInputs.cache
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.dll
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/refint/Zad3_2.dll
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.pdb
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/Zad3_2.genruntimeconfig.cache
+/Users/adriangosia/Projects/Cwiczenia6/Zad3_2/obj/Debug/net7.0/ref/Zad3_2.dll
